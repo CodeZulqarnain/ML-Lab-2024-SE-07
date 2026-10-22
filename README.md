@@ -37,6 +37,8 @@ The repository will evolve as I complete additional laboratory exercises and exp
 ML-Lab-2024-SE-07/
 │
 ├── Lab01/          # First laboratory practical
+|     |
+|     |___Lab01_2024-SE-07_Zulqarnain_Mohi_Ud_Din.ipynb        
 │
 └── README.md       # Project documentation
 ```
